@@ -1,9 +1,7 @@
 
 services:
   php:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: jayakrishnanjk/my-first-project:latest
     container_name: php-app
     restart: unless-stopped
 
