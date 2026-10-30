@@ -47,7 +47,7 @@ $server_time = date("Y-m-d H:i:s");
 
 <div class="container">
 
-    <h1>Welcome to My DevOps Project!</h1>
+    <h1>My AUtomated CI/CD Deployment</h1>
 
     <p>This is my PHP web application.</p>
 
